@@ -42,6 +42,11 @@
 
 ## ✍🏻 My last articles
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Power of the Visitor Pattern in JavaScript Development](https://dev.to/exiosys/unveiling-the-power-of-the-visitor-pattern-in-javascript-development-4pb5)
+- [Top 12 interview question for a React Developer](https://dev.to/exiosys/top-12-interview-question-for-a-react-developer-34f1)
+- [Stop this, use this instead : Top 5 best practices JS / React](https://dev.to/exiosys/stop-this-use-this-instead-reactjs-javascript-14d4)
+- [Understanding &#39;use client&#39; in Next.js: Enhancing Performance Through Client-Side Component Mastery](https://dev.to/exiosys/understanding-use-client-in-nextjs-enhancing-performance-through-client-side-component-mastery-10dg)
+- [Revolutionize Your React App with useReducer: Mastering State Management](https://dev.to/exiosys/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Current Stats
