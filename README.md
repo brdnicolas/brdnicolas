@@ -11,15 +11,15 @@
 
 
 ## 🙋‍♂️ About Me
-🔭 I’m currently working on ApplifyAI
+🔭 I’m currently working @Ornikar 🚗 @okr-brdnicolas
 
-🌱 I’m currently learning ExpressJS with Sequelize and Postgres
+🌱 I’m currently learning React's design patterns
 
 💬 Ask me about **React, Next.js, Typescript**
 
 👨‍💻 All of my projects are available on [my own portfolio](https://brdnicolas.com)
 
-📝 I regularly write articles on [dev.to](https://dev.to/exiosys)
+📝 I regularly write articles on [dev.to](https://dev.to/brdnicolas)
 
 📄 Know about my experiences https://read.cv/brdnicolas
 
